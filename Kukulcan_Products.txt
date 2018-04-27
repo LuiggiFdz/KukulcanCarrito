@@ -1,0 +1,11 @@
+ID|NAME|CATEGORY|PRICE|RATING
+001|Messi|Argentina|$1.00|*****
+002|Ronaldo|Portugal|$2.00|*****
+003|Chicharito|México|$3.00|***
+004|Neuer|Alemania|$4.00|*****
+005|Modric|Croacia|$5.00|****
+006|Neymar|Brazil|$6.00|*****
+007|Navas|Costa Rica|$7.00|****
+008|Buffon|Italia|$8.00|****
+009|Kroos|Alemania|$9.00|*****
+010|Alireza|Iran|$10.00|**

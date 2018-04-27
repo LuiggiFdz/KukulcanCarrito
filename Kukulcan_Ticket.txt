@@ -1,0 +1,4 @@
+Producto: 1
+Producto: 9
+Producto: 5
+Total a pagar: $15.00
